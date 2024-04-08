@@ -1,0 +1,48 @@
+.icon-data {
+    border: 0.125rem solid;
+    border-radius: 3.125rem;
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#ffc107;
+}
+
+.icon {
+    border: 2px solid;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffb900;
+    margin-left: 20px;
+}
+
+.eye-icon {
+    font-size: 30px;
+        color: #ffc107;
+}
+
+
+.icon-default {
+    width: 3rem;
+    
+}
+
+.icon-default-frame {
+    border: 0.125rem solid;
+    border-radius: 50px;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#ffc107;
+}
+
+.btn-outline-warning {
+    color: black;
+}

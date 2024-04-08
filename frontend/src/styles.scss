@@ -1,0 +1,20 @@
+// /* You can add global styles to this file, and also import other style files */
+// $selection-color: #ffb900;
+// $background-color-pages: #f5f5f5;
+
+// .nav-link{
+//   &.active {
+//     background-color: $selection-color !important;
+//   }
+// }
+
+// .bg-pages{
+//   background-color: $background-color-pages;
+// }
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html, body { height: 100%; width: 100%; }
+body { margin: 0; font-family:Arial, Helvetica, sans-serif;}
+
+

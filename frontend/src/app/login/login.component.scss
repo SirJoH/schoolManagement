@@ -1,0 +1,15 @@
+form {
+  min-width: 300px;
+}
+
+.input-container{
+  position: relative;
+  input {
+    padding-right: 2rem;
+  }
+  div {
+    position: absolute;
+    right: 8px;
+    top: 26%;
+  }
+}

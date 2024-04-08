@@ -1,0 +1,58 @@
+
+.icon-data {
+    border: 2px solid;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffb900;
+    margin-left: 20px;
+  }
+.icon-back {
+    border: 2px solid;
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffb900;
+    margin-left: 20px;
+  }
+  .bi-person-vcard{
+    font-size: 30px;
+      color: #ffb900;
+  }
+  .bi-arrow-left{
+    font-size: 25px;
+      color: #ffb900;
+  }
+
+.person-add-icon {
+    font-size: 30px;
+    color:#ffc107;
+}
+
+.text-personal-data {
+    margin-top: 20px;
+}
+
+.form-container {
+    margin-top: 100px;
+}
+
+.placeholder-input::placeholder {
+    color: rgb(186, 178, 178);
+}
+
+.btn-dark {
+    background-color: #ffc107;
+    color: black;
+}
+
+
+.role-select {
+    margin-bottom: 30px;
+}
